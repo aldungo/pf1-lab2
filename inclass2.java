@@ -21,7 +21,7 @@ public class inclass2
         System.out.print("Please enter the mass of the object (kg): ");
         mass = input.nextDouble();
 
-        System.out.print("Please enter the acceleration of the object (m/s^2): ");
+        System.out.print("Please enter the INCORRECT TEXT HERE TO CHECK:::::DKJFLSKDJF:DFacceleration of the object (m/s^2): ");
         acceleration = input.nextDouble();
 
         force = mass * acceleration;
